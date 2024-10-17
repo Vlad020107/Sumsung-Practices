@@ -68,3 +68,7 @@ fun main() {
 //    var player3 = Knight(100F,25F,57F)
 
 }
+
+fun Hi(){
+
+}
