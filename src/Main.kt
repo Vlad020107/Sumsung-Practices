@@ -63,8 +63,8 @@ fun main() {
 //    Arrays.sort(arrayCar, customCorporator)
 //    println(arrayCar.contentToString())
 
-    var player1 = Wizard(100F,10F,20F)
-    var player2 = Robot(100F,16F,98F)
-    var player3 = Knight(100F,25F,57F)
+//    var player1 = Wizard(100F,10F,20F)
+//    var player2 = Robot(100F,16F,98F)
+//    var player3 = Knight(100F,25F,57F)
 
 }
